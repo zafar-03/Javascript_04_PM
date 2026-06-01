@@ -1,0 +1,37 @@
+=> Introdution :-
+
+JS : Javascript 
+- It's a Scripting Programing Language/Scripting Language.
+
+=> Web development :
+    1. create a Website. (static)
+            HTML,CSS,JS.
+
+    2. create a WebApp. (static/dynamic)
+            ReactJS,NodeJS,NextJS  etc....
+
+
+eEX   vs    Nestcape
+ L2           L1
+
+
+ECMA : ES1 (ECMA Script)
+
+    : ES5
+    : ES6   2015
+
+- LS -> MO  -> JS(Microsoft)
+
+
+
+PYTHON  JAVA     Javascript/(HTML/CSS) (website,desktop application,Gaming,Ai)
+Django/flask
+Application : 
+
+
+
+100% = 90%  
+10%  = 
+
+
+100% = 95% php
