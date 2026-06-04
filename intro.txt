@@ -35,3 +35,22 @@ Application :
 
 
 100% = 95% php
+
+Hello Every One
+
+
+1. UPPERCASE
+2. lowecase
+3. camelCase : helloEveryOne
+4. snake_case 
+5. Capitlize : 
+
+
+
+
+introduction : 
+console screen :
+main screen : 
+    - how to access Element 
+    - how to add Text/Tag
+    - how to Access Element Content using JS :
